@@ -1,10 +1,10 @@
-# 🎈 Blank app template
+# Welcome to External Average Testing (EAT).
 
-A simple Streamlit app template for you to modify!
+EAT is a fun little website that you can use to send funny, short forms to your friends. 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
-### How to run it on your own machine
+### Running Procedure
 
 1. Install the requirements
 
